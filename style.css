@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body 
+{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+@font-face{
+    font-family: "Lamborghini";
+    src: url(La\ Macchina\ Regular.ttf)
+}
+
+p.lambo
+{
+    font-family: "Lamborghini", Arial, sans-serif;
+    font-size: 2.5rem;
+    color: white;
+    padding-left: 1rem;
+    padding-top: 0.7rem;
+}
+
+p.show
+{
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: white;
+    padding-left: 1rem;
+    padding-top: 1.6rem;
+}
+
+.sec-bg
+{
+    height: 35rem;
+    background-color: black;
+    background-image: url(Images/1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.sec-terzo
+{
+    height: 35rem;
+    background-color: black;
+    background-image: url(Images/terzo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.sec-rev
+{
+    height: 35rem;
+    background-color: black;
+    background-image: url(Images/rev.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.sec-bg1
+{
+    height: 35rem;
+    background-color: black;
+    background-image: url(Images/Aventaor1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec-bg2
+{
+    height: 35rem;
+    background-color: black;
+    background-image: url(Images/urus1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.sec-text
+{
+    font-size: 2rem;
+    padding-top: 4rem;
+}
+
+.empty
+{
+    height: 5rem;
+    width: 100%;
+    background-color: black;
+}
+
+.empty1
+{
+    height: 2rem;
+    width: 100%;
+}
+
+hr
+{
+    border: 2px solid black;
+}
+
+
+.cardi img
+{
+    margin: auto;
+    height: 38rem;
+}
+
+.card-body
+{
+    margin-top: 1rem;
+}
